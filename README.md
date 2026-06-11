@@ -33,3 +33,13 @@ To help ARENA identify postcode-level characteristics associated with solar adop
 - Analysis Notebook (.ipynb)
 - HTML Report (.html)
 - Interactive Maps (.html)
+
+## Tools
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Statsmodels
+- Plotly
+- Folium
